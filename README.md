@@ -1,2 +1,9 @@
-# Python_TelegremBot_Vlasov
-The main project for a telegram bot, as well as additional tasks
+<h1 align="center"># Python_TelegremBot_Vlasov</a>
+
+# Project: Telegram bot with calendar function
+
+Vlasov Dmitry
+
+Deiruko
+
+nyakoren@mail.ru
